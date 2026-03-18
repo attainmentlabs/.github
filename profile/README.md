@@ -10,7 +10,13 @@ We build AI systems that handle the repetitive, rules-based work that keeps scal
 - **Process Automation** for operations teams drowning in repetitive workflows. We audit, identify the highest-ROI automation targets, and deploy.
 - **Growth Systems** for companies that need marketing infrastructure, not just marketing advice.
 
-## Open Source
+## Products
+
+| Repo | Description |
+|------|-------------|
+| [ai-receptionist](https://github.com/attainmentlabs/ai-receptionist) | AI receptionist for dental and healthcare practices. Live demo inside. |
+
+## Open Source Tools
 
 | Repo | Description |
 |------|-------------|
